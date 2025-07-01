@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/780159851810250261/models/m-78ce5d2462c446f382ac417845bfd055/artifacts
+creation_timestamp: 1751358748730
+experiment_id: '780159851810250261'
+last_updated_timestamp: 1751358751574
+model_id: m-78ce5d2462c446f382ac417845bfd055
+model_type: null
+name: bagged_rf_model_cycle_19
+source_run_id: 0bad9fd61cc042bb877b52db3e343785
+status: 2
+status_message: null
