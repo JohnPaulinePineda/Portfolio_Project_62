@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/691890020560397976/9322efffb51b484daeb09d29c2590294/artifacts
+deleted_time: 1751531402682
 end_time: 1751518198234
 entry_point_name: ''
 experiment_id: '691890020560397976'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9322efffb51b484daeb09d29c2590294
 run_name: Best_RF_Model_Final
 source_name: ''
