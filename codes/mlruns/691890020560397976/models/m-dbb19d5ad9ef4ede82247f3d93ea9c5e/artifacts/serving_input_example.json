@@ -1,0 +1,30 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Age",
+      "Gender",
+      "Smoking",
+      "Physical_Examination",
+      "Adenopathy",
+      "Focality",
+      "Risk",
+      "T",
+      "Stage",
+      "Response"
+    ],
+    "data": [
+      [
+        28,
+        "F",
+        "No",
+        "Multinodular or Diffuse Goiter",
+        "No",
+        "Uni-Focal",
+        "Low",
+        "T1 to T2",
+        "I",
+        "Excellent"
+      ]
+    ]
+  }
+}
