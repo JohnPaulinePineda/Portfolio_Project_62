@@ -1,14 +1,15 @@
 artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/691890020560397976/23d835fd512b4b3e89522c04fd95b4d6/artifacts
-end_time: 1751950659556
+deleted_time: 1752046144252
+end_time: 1752046144234
 entry_point_name: ''
 experiment_id: '691890020560397976'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 23d835fd512b4b3e89522c04fd95b4d6
 run_name: Best_RF_Model_Final
 source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1751950649767
-status: 3
+status: 5
 tags: []
 user_id: John pauline magno

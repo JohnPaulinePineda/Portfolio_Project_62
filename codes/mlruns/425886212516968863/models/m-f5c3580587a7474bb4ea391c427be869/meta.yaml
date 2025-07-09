@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/425886212516968863/models/m-f5c3580587a7474bb4ea391c427be869/artifacts
+creation_timestamp: 1752046230743
+experiment_id: '425886212516968863'
+last_updated_timestamp: 1752046233806
+model_id: m-f5c3580587a7474bb4ea391c427be869
+model_type: null
+name: best_boosted_gb_model
+source_run_id: 33abc30289254ef8aefa51ed9be6451f
+status: 2
+status_message: null
