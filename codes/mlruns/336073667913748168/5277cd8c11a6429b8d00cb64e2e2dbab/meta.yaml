@@ -1,14 +1,15 @@
 artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/336073667913748168/5277cd8c11a6429b8d00cb64e2e2dbab/artifacts
-end_time: 1752047311739
+deleted_time: 1752110571373
+end_time: 1752110571340
 entry_point_name: ''
 experiment_id: '336073667913748168'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5277cd8c11a6429b8d00cb64e2e2dbab
 run_name: Best_XGB_Model_Final
 source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1752047308420
-status: 3
+status: 5
 tags: []
 user_id: John pauline magno
