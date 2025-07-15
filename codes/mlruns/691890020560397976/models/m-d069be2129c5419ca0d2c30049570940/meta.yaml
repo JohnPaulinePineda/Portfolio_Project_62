@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/691890020560397976/models/m-d069be2129c5419ca0d2c30049570940/artifacts
+creation_timestamp: 1752561338901
+experiment_id: '691890020560397976'
+last_updated_timestamp: 1752561342177
+model_id: m-d069be2129c5419ca0d2c30049570940
+model_type: null
+name: best_bagged_rf_model
+source_run_id: ac99e61ad5154dfe94e163fdf31572cc
+status: 2
+status_message: null

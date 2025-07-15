@@ -1,0 +1,40 @@
+artifact_path: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/400843391829840169/models/m-823e4a2f1d52492e96587bbfb858cfec/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-823e4a2f1d52492e96587bbfb858cfec
+model_size_bytes: 28797
+model_uuid: m-823e4a2f1d52492e96587bbfb858cfec
+prompts: null
+run_id: 5b5b2d48a7f8486d920bb306ac5416f3
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Age", "required": true}, {"type": "string",
+    "name": "Gender", "required": true}, {"type": "string", "name": "Smoking", "required":
+    true}, {"type": "string", "name": "Physical_Examination", "required": true}, {"type":
+    "string", "name": "Adenopathy", "required": true}, {"type": "string", "name":
+    "Focality", "required": true}, {"type": "string", "name": "Risk", "required":
+    true}, {"type": "string", "name": "T", "required": true}, {"type": "string", "name":
+    "Stage", "required": true}, {"type": "string", "name": "Response", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-15 01:38:27.213890'

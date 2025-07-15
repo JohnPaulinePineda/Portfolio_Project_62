@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/691890020560397976/5e1a262f47bf41ce8a3cd8a3b9132dd7/artifacts
+deleted_time: 1752566077044
+end_time: 1752566076992
+entry_point_name: ''
+experiment_id: '691890020560397976'
+lifecycle_stage: deleted
+run_id: 5e1a262f47bf41ce8a3cd8a3b9132dd7
+run_name: RF_HyperparameterCombo_16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752563740868
+status: 5
+tags: []
+user_id: John pauline magno
