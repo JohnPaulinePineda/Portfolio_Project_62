@@ -1,14 +1,15 @@
 artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/400843391829840169/a1c0d367d93f4f199b4914694da0043b/artifacts
-end_time: 1752625544142
+deleted_time: 1752629750790
+end_time: 1752629750752
 entry_point_name: ''
 experiment_id: '400843391829840169'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a1c0d367d93f4f199b4914694da0043b
 run_name: CB_HyperparameterCombo_2
 source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1752625544039
-status: 3
+status: 5
 tags: []
 user_id: John pauline magno
