@@ -1,14 +1,15 @@
 artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/709167437067841681/9339d250b6024432895bedd519d29ce4/artifacts
-end_time: 1753170322944
+deleted_time: 1753170878145
+end_time: 1753170878102
 entry_point_name: ''
 experiment_id: '709167437067841681'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9339d250b6024432895bedd519d29ce4
 run_name: LGBM_HyperparameterCombo_3_Optimal
 source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1753170319357
-status: 3
+status: 5
 tags: []
 user_id: John pauline magno

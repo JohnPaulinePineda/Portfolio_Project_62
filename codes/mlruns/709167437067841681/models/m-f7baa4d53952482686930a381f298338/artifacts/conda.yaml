@@ -1,0 +1,20 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.12.5
+- pip<=24.2
+- pip:
+  - mlflow==3.1.1
+  - cffi==1.17.1
+  - cloudpickle==3.1.1
+  - defusedxml==0.7.1
+  - graphviz==0.21
+  - lightgbm==4.6.0
+  - matplotlib==3.10.3
+  - numpy==2.3.1
+  - pandas==2.3.0
+  - psutil==7.0.0
+  - pyarrow==20.0.0
+  - scikit-learn==1.6.1
+  - scipy==1.15.3
+name: mlflow-env
