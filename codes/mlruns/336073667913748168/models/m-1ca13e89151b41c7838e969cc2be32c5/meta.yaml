@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/336073667913748168/models/m-1ca13e89151b41c7838e969cc2be32c5/artifacts
+creation_timestamp: 1753258418497
+experiment_id: '336073667913748168'
+last_updated_timestamp: 1753258418667
+model_id: m-1ca13e89151b41c7838e969cc2be32c5
+model_type: null
+name: best_boosted_xgb_model
+source_run_id: 66228a904b334ba2815599daa3d22c58
+status: 3
+status_message: null
