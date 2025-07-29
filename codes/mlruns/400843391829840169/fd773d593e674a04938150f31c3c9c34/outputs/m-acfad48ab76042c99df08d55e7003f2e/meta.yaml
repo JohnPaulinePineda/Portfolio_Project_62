@@ -1,0 +1,6 @@
+destination_id: m-acfad48ab76042c99df08d55e7003f2e
+destination_type: MODEL_OUTPUT
+source_id: m-acfad48ab76042c99df08d55e7003f2e
+source_type: RUN_OUTPUT
+step: 0
+tags: {}
