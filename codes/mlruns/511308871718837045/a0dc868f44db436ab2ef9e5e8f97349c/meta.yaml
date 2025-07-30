@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/511308871718837045/a0dc868f44db436ab2ef9e5e8f97349c/artifacts
+deleted_time: 1753856558272
+end_time: 1753856558250
+entry_point_name: ''
+experiment_id: '511308871718837045'
+lifecycle_stage: deleted
+run_id: a0dc868f44db436ab2ef9e5e8f97349c
+run_name: AB_HyperparameterCombo_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753854180457
+status: 5
+tags: []
+user_id: John pauline magno
