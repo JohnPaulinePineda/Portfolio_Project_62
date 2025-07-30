@@ -1,14 +1,15 @@
 artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/336073667913748168/db613d5298474ccf974f353ba960cea2/artifacts
-end_time: 1753856628759
+deleted_time: 1753864197671
+end_time: 1753864197652
 entry_point_name: ''
 experiment_id: '336073667913748168'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: db613d5298474ccf974f353ba960cea2
 run_name: XGB_HyperparameterCombo_8
 source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1753856628659
-status: 3
+status: 5
 tags: []
 user_id: John pauline magno
