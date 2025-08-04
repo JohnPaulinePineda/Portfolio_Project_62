@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/709167437067841681/53b4b4a64ae143f4bdba97377cb4ca46/artifacts
+deleted_time: 1754295634193
+end_time: 1754295634172
+entry_point_name: ''
+experiment_id: '709167437067841681'
+lifecycle_stage: deleted
+run_id: 53b4b4a64ae143f4bdba97377cb4ca46
+run_name: LGBM_HyperparameterCombo_11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754286167144
+status: 5
+tags: []
+user_id: John pauline magno
