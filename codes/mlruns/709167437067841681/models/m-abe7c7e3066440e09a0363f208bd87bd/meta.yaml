@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Github_Codes/ProjectPortfolio/Portfolio_Project_62/codes/mlruns/709167437067841681/models/m-abe7c7e3066440e09a0363f208bd87bd/artifacts
+creation_timestamp: 1754463588436
+experiment_id: '709167437067841681'
+last_updated_timestamp: 1754463592210
+model_id: m-abe7c7e3066440e09a0363f208bd87bd
+model_type: null
+name: best_boosted_lgbm_model
+source_run_id: 38e5e06df79a4679bd698965d4273452
+status: 2
+status_message: null
