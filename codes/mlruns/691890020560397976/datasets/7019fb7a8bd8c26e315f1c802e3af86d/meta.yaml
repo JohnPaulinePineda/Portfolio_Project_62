@@ -1,0 +1,13 @@
+digest: f3bd986a
+name: thyroid_cancer_validation
+profile: '{"num_rows": 69, "num_elements": 759}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Age", "required": true}, {"type":
+  "string", "name": "Gender", "required": true}, {"type": "string", "name": "Smoking",
+  "required": true}, {"type": "string", "name": "Physical_Examination", "required":
+  true}, {"type": "string", "name": "Adenopathy", "required": true}, {"type": "string",
+  "name": "Focality", "required": true}, {"type": "string", "name": "Risk", "required":
+  true}, {"type": "string", "name": "T", "required": true}, {"type": "string", "name":
+  "Stage", "required": true}, {"type": "string", "name": "Response", "required": true},
+  {"type": "string", "name": "Recurred", "required": true}]}'
+source: '{"uri": "d:\\Github_Codes\\ProjectPortfolio\\Portfolio_Project_62\\datasets\\preprocessed\\validation\\thyroid_cancer_preprocessed_validation.csv"}'
+source_type: local
