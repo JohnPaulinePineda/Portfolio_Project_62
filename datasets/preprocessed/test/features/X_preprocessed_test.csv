@@ -1,92 +1,92 @@
 Age,Gender,Smoking,Physical_Examination,Adenopathy,Focality,Risk,T,Stage,Response
-25,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-46,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Excellent
-40,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Excellent
-67,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-25,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-72,M,Yes,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
-52,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-26,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Excellent
-40,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-62,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,II to IVB,Indeterminate or Incomplete
-21,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-64,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
-39,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
-33,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-23,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-23,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-20,M,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-73,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-44,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Excellent
-60,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-38,M,Yes,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-80,F,Yes,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
-51,M,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-56,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Excellent
-33,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-22,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-24,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Excellent
-21,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-72,M,Yes,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
-62,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-17,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-47,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-34,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-28,M,Yes,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
-26,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-22,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-56,M,Yes,Multinodular or Diffuse Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-30,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Low,T3 to T4b,I,Excellent
-53,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-45,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-45,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-45,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-43,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-31,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Excellent
-34,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-60,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,II to IVB,Indeterminate or Incomplete
-32,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,I,Excellent
-41,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-37,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Excellent
-33,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-31,M,Yes,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
-31,M,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
-75,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-25,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-17,F,No,Multinodular or Diffuse Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-28,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-30,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-25,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Low,T1 to T2,I,Excellent
-33,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-33,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-32,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
-25,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-19,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-20,M,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-40,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-31,M,Yes,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-30,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-35,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-48,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
-62,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-20,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Excellent
-24,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-29,F,Yes,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-30,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
-31,M,Yes,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-31,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Excellent
-81,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T3 to T4b,II to IVB,Excellent
-42,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-29,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-73,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
-28,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-42,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-31,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
-46,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-51,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-66,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
-32,M,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
-27,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Excellent
-75,M,Yes,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T1 to T2,II to IVB,Indeterminate or Incomplete
-52,M,Yes,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
-23,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+25.0,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+46.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Excellent
+40.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Excellent
+67.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+25.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+72.0,M,Yes,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
+52.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+26.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Excellent
+40.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+62.0,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,II to IVB,Indeterminate or Incomplete
+21.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+64.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
+39.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
+33.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+23.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+23.0,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+20.0,M,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+73.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+44.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Excellent
+60.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+38.0,M,Yes,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+80.0,F,Yes,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
+51.0,M,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+56.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Excellent
+33.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+22.0,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+24.0,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Excellent
+21.0,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+72.0,M,Yes,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
+62.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+17.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+47.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+34.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+28.0,M,Yes,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
+26.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+22.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+56.0,M,Yes,Multinodular or Diffuse Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+30.0,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Low,T3 to T4b,I,Excellent
+53.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+45.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+45.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+45.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+43.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+31.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Excellent
+34.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+60.0,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,II to IVB,Indeterminate or Incomplete
+32.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T3 to T4b,I,Excellent
+41.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+37.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Excellent
+33.0,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+31.0,M,Yes,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
+31.0,M,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
+75.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+25.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+17.0,F,No,Multinodular or Diffuse Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+28.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+30.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+25.0,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Low,T1 to T2,I,Excellent
+33.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+33.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+32.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
+25.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+19.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+20.0,M,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+40.0,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+31.0,M,Yes,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+30.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+35.0,F,No,Normal or Single Nodular Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+48.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
+62.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+20.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T1 to T2,I,Excellent
+24.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+29.0,F,Yes,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+30.0,F,No,Normal or Single Nodular Goiter,No,Multi-Focal,Low,T3 to T4b,I,Indeterminate or Incomplete
+31.0,M,Yes,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+31.0,F,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T1 to T2,I,Excellent
+81.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T3 to T4b,II to IVB,Excellent
+42.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+29.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+73.0,F,No,Multinodular or Diffuse Goiter,No,Uni-Focal,Intermediate to High,T3 to T4b,II to IVB,Indeterminate or Incomplete
+28.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+42.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+31.0,F,No,Normal or Single Nodular Goiter,Yes,Uni-Focal,Intermediate to High,T1 to T2,I,Indeterminate or Incomplete
+46.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+51.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+66.0,F,No,Normal or Single Nodular Goiter,No,Uni-Focal,Low,T1 to T2,I,Excellent
+32.0,M,No,Multinodular or Diffuse Goiter,Yes,Multi-Focal,Intermediate to High,T3 to T4b,I,Indeterminate or Incomplete
+27.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Excellent
+75.0,M,Yes,Normal or Single Nodular Goiter,No,Multi-Focal,Intermediate to High,T1 to T2,II to IVB,Indeterminate or Incomplete
+52.0,M,Yes,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
+23.0,F,No,Multinodular or Diffuse Goiter,No,Multi-Focal,Low,T1 to T2,I,Indeterminate or Incomplete
