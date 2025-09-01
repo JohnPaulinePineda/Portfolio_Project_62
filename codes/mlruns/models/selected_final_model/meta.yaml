@@ -1,8 +1,8 @@
 aliases:
   prod: '1'
-creation_timestamp: 1754901911011
+creation_timestamp: 1756687895638
 deployment_job_id: null
 deployment_job_state: null
 description: null
-last_updated_timestamp: 1754901919055
+last_updated_timestamp: 1756687903936
 name: selected_final_model
